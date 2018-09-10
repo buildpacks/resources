@@ -1,12 +1,14 @@
 # Buildpacks
 
-# Work
+# Resources
 
-- [Buildpack Cloud Builders for Cloud Foundry, Heroku, and v3 Buildpacks](https://github.com/buildpack/packs)
+- [Buildpack CLI](https://github.com/buildpack/pack)
 - [Buildpack API v3 - Reference Implementation](https://github.com/buildpack/lifecycle)
 - [Buildpack API v3 - Samples](https://github.com/buildpack/samples)
-- [Buildpack API v3 - Specification (Working Document)](https://docs.google.com/document/d/1D-f2wAX5CUmbgNzj7joFTpFdUYeirVatiFicwKsMnFo/edit?ts=5b1adf6f#heading=h.gtjwrjk3dbbg)
-- [Local Buildpack Runner Library for Docker](https://github.com/buildpack/forge)
+- [Buildpack API v3 - Specification](https://githtub.com/buildpack/spec)
+- [Compatibility Layer for Current Heroku (v2a) and Cloud Foundry (v2b) Buildpacks](https://github.com/buildpack/packs)
+- [Go Client for the Compatibility Layer](https://github.com/buildpack/forge)
+
 
 # Related
 
